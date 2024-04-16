@@ -25,7 +25,7 @@
 &none    &kp APOS    &kp Q       &kp J       &kp K       &kp X             &kp B       &kp M       &kp W       &kp V       &kp Z       &none
 //     |___________|___________|___________|___________|___________|     |___________|___________|___________|___________|___________|
 //                             |           |           |           |     |           |           |           |
-                                 &kp LGUI    &mo 1       &kp SPACE         &kp RET     &mo 2       &kp RALT
+                                 &kp LGUI    &mo 1       &kp SPACE         &mo 2       &kp RET     &kp RALT
 //                             |___________|___________|___________|     |___________|___________|___________|
                         >;
                 };
@@ -41,10 +41,10 @@
 &none   &bt BT_CLR   &trans      &trans      &trans      &trans            &trans     &trans      &trans      &trans      &trans       &none
 //     |___________|___________|___________|___________|___________|     |___________|___________|___________|___________|___________|
 //     |           |           |           |           |           |     |           |           |           |           |           |
-&none    &kp APOS    &kp Q       &kp J       &kp K       &kp X             &kp B       &kp M       &kp W       &kp V       &kp Z       &none
+&none    &kp Q       &kp Q       &kp J       &kp K       &kp X             &kp B       &kp M       &kp W       &kp V       &kp Z       &none
 //     |___________|___________|___________|___________|___________|     |___________|___________|___________|___________|___________|
 //                             |           |           |           |     |           |           |           |
-                                 &kp LGUI    &mo 1       &kp SPACE         &kp RET     &mo 2       &kp RALT
+                                 &kp LGUI    &mo 1       &kp SPACE         &mo 2       &kp RET     &kp RALT
 //                             |___________|___________|___________|     |___________|___________|___________|
                         >;
                 };
@@ -59,10 +59,10 @@
 &none   &bt BT_CLR   &trans      &trans      &trans      &trans            &trans     &trans      &trans      &trans      &trans       &none
 //     |___________|___________|___________|___________|___________|     |___________|___________|___________|___________|___________|
 //     |           |           |           |           |           |     |           |           |           |           |           |
-&none    &kp APOS    &kp Q       &kp J       &kp K       &kp X             &kp B       &kp M       &kp W       &kp V       &kp Z       &none
+&none    &kp Q       &kp Q       &kp J       &kp K       &kp X             &kp B       &kp M       &kp W       &kp V       &kp Z       &none
 //     |___________|___________|___________|___________|___________|     |___________|___________|___________|___________|___________|
 //                             |           |           |           |     |           |           |           |
-                                 &kp LGUI    &mo 1       &kp SPACE         &kp RET     &mo 2       &kp RALT
+                                 &kp LGUI    &mo 1       &kp SPACE         &mo 2       &kp RET           &kp RALT
 //                             |___________|___________|___________|     |___________|___________|___________|
                         >;
                 };
